@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redmonkez12&label=Profile%20views&color=0e75b6&style=flat" alt="redmonkez12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redmonkez12" alt="redmonkez12" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.tomas-svojanovsky.eu/](https://www.tomas-svojanovsky.eu/)
 
 - 📝 I regularly write articles on [https://www.fullstack-dev.cz/en](https://www.fullstack-dev.cz/en)
