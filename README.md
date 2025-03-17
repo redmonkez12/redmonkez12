@@ -9,10 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tom%C3%A1%C5%A1-svojanovsk%C3%BD-372b9879/](https://www.linkedin.com/in/tom%C3%A1%C5%A1-svojanovsk%C3%BD-372b9879/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomáš-svojanovský-372b9879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomáš-svojanovský-372b9879" height="30" width="40" /></a>
