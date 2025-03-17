@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redmonkez12&label=Profile%20views&color=0e75b6&style=flat" alt="redmonkez12" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.tomas-svojanovsky.eu/](https://www.tomas-svojanovsky.eu/)
-
-- 📝 I regularly write articles on [https://www.fullstack-dev.cz/en](https://www.fullstack-dev.cz/en)
+- 📝 I regularly write articles on [Medium](https://medium.com/@tomas-svojanovsky)
 
 - 📫 How to reach me **tomas.svojanovsky11@gmail.com**
 
